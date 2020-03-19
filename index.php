@@ -13,6 +13,8 @@ DB::init('localhost', 'root', '');
 
 echo DB::insertSentences($sentences);
 
+echo 'Success';
+
 
 
 
