@@ -1,5 +1,10 @@
 <?php
 
+
+namespace Classes;
+
+use mysqli;
+
 class DB
 {
     private static $host;

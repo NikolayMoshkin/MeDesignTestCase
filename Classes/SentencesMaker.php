@@ -1,6 +1,8 @@
 <?php
 
 
+namespace Classes;
+
 class SentencesMaker
 {
 
